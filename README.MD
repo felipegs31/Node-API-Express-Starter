@@ -1,6 +1,9 @@
 # Creating a RESTful API with Node.js
 This repository accompanies my YouTube video series on building a RESTful API with Node.js: [https://github.com/academind/node-restful-api-tutorial.git](https://github.com/academind/node-restful-api-tutorial.git)
 
+# BUT USING BABEL ES6 IMPORTS
+
+
 ## Usage
 Check out the branch you're interested in (i.e. which belongs to the video in my series you just watched), ```git clone``` it and thereafter run ```npm install```.
 
@@ -13,3 +16,5 @@ Make sure to also add your Mongo Atlas Admin Username to a nodemon.json file (wh
     }
 }
 ```
+
+Create a uploads folder in root as well for the images
